@@ -47,7 +47,7 @@ Nevertheless, over our digital meetings we came together over two weeks to final
 When we initially were able to input our data set and actually produce legitimate results (meaning not tainted by misplaced punctuation in the .csv file or anything of the sort), we had to have a conversation on the parameters we would set. As discussed earlier, setting parameters is a way to inflict some personal academic bias on the data set. If we set our parameters to display a certain number of topics, say 15, and we don’t like the results and change the parameters, that is necessarily passing judgement on the results we achieved. It is saying that there is something in those results that were not “good enough”, even if we did not concretely establish what “good enough” looked like. As a result, we attempted to try a variety of different parameters, constantly changing and adjusting for the number of topics displayed per work to showcase different results. Over the course of several different trials (see below images) we adjusted for number of topics, and tried removing numbers as a topic as well. 
 
  
-![](Topic%20Modelling%20Trial%201.png))
+![](Topic%20Modelling%20Trial%201.png)
 
  
 ![](Topic%20Modelling%20Trial%202.png)
@@ -95,7 +95,8 @@ From there, we moved to Gephi. This was difficult, especially due to the interes
 
 
 One of the problems we came up against was getting the right matrix to convert our data in the way we needed it to. Eventually, we formatted it such that the left matrix: null – true the topics, and were met with something much more palatable for our project:  
-![](Network%20Analysis%20Trial%203%20-%20Pointy%20Blob.png
+
+![](Network%20Analysis%20Trial%203%20-%20Pointy%20Blob.png)
 
 The pointy blob! We clearly still were missing something; either something was not formatted correctly, or the inputs on our matrices were not correct. Either way, we were not producing anything of value yet. Again, our goal was to produce a visualization of the interesting points of our topic modelling, which kind of rested upon providing a visual network that we could read. 
 Slowly, and with a good deal of trial and error on the party of our party who were taking point on Gephi, we got to a point where we had something more readable. We continued tinkering, particularly in order to find a way to label all our nodes. 
